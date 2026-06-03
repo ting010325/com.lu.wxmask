@@ -68,4 +68,4 @@
 
 ✅ 8.0.72
 
-特别感谢: https://github.com/Mingyueyixi/MaskWechat
+特别鸣谢: https://github.com/Mingyueyixi/MaskWechat
