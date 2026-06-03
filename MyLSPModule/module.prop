@@ -1,0 +1,6 @@
+id=com.lu.wxmask
+version=2.7.2
+versionCode=100
+author=MaskWechat2
+description=这是一个闭源 LSPosed 模块
+minApi=101
